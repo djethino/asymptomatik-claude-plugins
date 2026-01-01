@@ -7,8 +7,8 @@
     {
       "name": "claude-guardian-coach",
       "source": {
-        "source": "github",
-        "repo": "djethino/claude-guardian-coach"
+        "source": "url",
+        "url": "https://github.com/djethino/claude-guardian-coach.git"
       },
       "description": "Behavioral guidance and context preservation for Claude Code"
     }

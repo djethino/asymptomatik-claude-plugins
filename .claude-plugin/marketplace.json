@@ -5,12 +5,12 @@
   },
   "plugins": [
     {
-      "name": "claude-guardian-coach",
+      "name": "claude-metacognition",
       "source": {
         "source": "url",
-        "url": "https://github.com/djethino/claude-guardian-coach.git"
+        "url": "https://github.com/djethino/claude-metacognition.git"
       },
-      "description": "Behavioral guidance and context preservation for Claude Code"
+      "description": "Metacognitive reflection and context preservation for Claude Code"
     }
   ]
 }

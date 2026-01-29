@@ -12,12 +12,12 @@ Official plugin marketplace for Claude Code by ASymptOmatik.
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-guardian-coach](https://github.com/djethino/claude-guardian-coach) | Behavioral guidance and context preservation |
+| [claude-metacognition](https://github.com/djethino/claude-metacognition) | Metacognitive reflection and context preservation |
 
 ## Install a Plugin
 
 ```bash
-/plugin install claude-guardian-coach
+/plugin install claude-metacognition
 ```
 
 ## License

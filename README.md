@@ -13,11 +13,13 @@ Official plugin marketplace for Claude Code by ASymptOmatik.
 | Plugin | Description |
 |--------|-------------|
 | [claude-metacognition](https://github.com/djethino/claude-metacognition) | Metacognitive reflection and context preservation |
+| [claude-souvenir](https://github.com/djethino/claude-souvenir) | Semantic search across conversation history and project files |
 
 ## Install a Plugin
 
 ```bash
 /plugin install claude-metacognition
+/plugin install claude-souvenir
 ```
 
 ## License

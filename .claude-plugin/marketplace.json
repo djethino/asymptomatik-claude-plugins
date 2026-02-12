@@ -11,6 +11,14 @@
         "url": "https://github.com/djethino/claude-metacognition.git"
       },
       "description": "Metacognitive reflection and context preservation for Claude Code"
+    },
+    {
+      "name": "claude-souvenir",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/djethino/claude-souvenir.git"
+      },
+      "description": "Semantic search across conversation history and project files"
     }
   ]
 }

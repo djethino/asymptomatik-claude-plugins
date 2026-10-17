@@ -3,7 +3,7 @@
   "owner": {
     "name": "ASymptOmatik"
   },
-  "description": "ASymptOmatik plugins for Claude Code: memory across sessions (souvenir) and metacognitive guidance (metacognition)",
+  "description": "ASymptOmatik plugins for Claude Code: memory across sessions (souvenir), metacognitive guidance (metacognition) and Cheat Engine control (cheatengine)",
   "plugins": [
     {
       "name": "asymptomatik-metacognition",
@@ -20,6 +20,14 @@
         "url": "https://github.com/djethino/claude-souvenir.git"
       },
       "description": "Semantic search across conversation history and project files"
+    },
+    {
+      "name": "asymptomatik-cheatengine",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/djethino/claude-cheatengine.git"
+      },
+      "description": "Drive Cheat Engine from Claude Code: memory scans and edits, pointers, watchpoints, code patches, Mono/Unity inspection, screenshots"
     }
   ]
 }

@@ -1,6 +1,6 @@
-# ASymptOmatik Claude Plugins
+# ASymptOmatik Claude Code Plugins
 
-Official plugin marketplace for Claude Code by ASymptOmatik.
+Plugin marketplace for Claude Code by ASymptOmatik.
 
 ## Installation
 
@@ -12,15 +12,19 @@ Official plugin marketplace for Claude Code by ASymptOmatik.
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-metacognition](https://github.com/djethino/claude-metacognition) | Metacognitive reflection and context preservation |
-| [claude-souvenir](https://github.com/djethino/claude-souvenir) | Semantic search across conversation history and project files |
+| [asymptomatik-souvenir](https://github.com/djethino/claude-souvenir) | Memory across sessions: semantic and text search over past conversations and project files, file versioning |
+| [asymptomatik-metacognition](https://github.com/djethino/claude-metacognition) | Metacognitive reflection and context preservation after compaction |
 
 ## Install a Plugin
 
 ```bash
-/plugin install claude-metacognition
-/plugin install claude-souvenir
+/plugin install asymptomatik-souvenir@asymptomatik
+/plugin install asymptomatik-metacognition@asymptomatik
 ```
+
+After installing souvenir, run `/asymptomatik-souvenir:souvenir-init` to check the setup and build the first index.
+
+> The plugins were previously named `claude-souvenir` and `claude-metacognition`. Claude Code reserves the `claude-` prefix, so they were renamed: uninstall the old names and install the new ones. Souvenir keeps and migrates its index.
 
 ## License
 

@@ -11,7 +11,7 @@
         "source": "url",
         "url": "https://github.com/djethino/claude-souvenir.git"
       },
-      "description": "Semantic search across conversation history and project files"
+      "description": "Keeps every Claude Code conversation (Claude Code deletes its transcripts after 30 days) and searches them by meaning or exact text, with project files"
     },
     {
       "name": "asymptomatik-cheatengine",

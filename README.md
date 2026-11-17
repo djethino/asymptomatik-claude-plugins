@@ -12,7 +12,7 @@ Plugin marketplace for Claude Code by ASymptOmatik.
 
 | Plugin | Description |
 |--------|-------------|
-| [asymptomatik-souvenir](https://github.com/djethino/claude-souvenir) | Memory across sessions: semantic and text search over past conversations and project files, file versioning |
+| [asymptomatik-souvenir](https://github.com/djethino/claude-souvenir) | Memory across sessions: keeps every conversation (Claude Code deletes its transcripts after 30 days), semantic and text search over them and project files, file versioning |
 | [asymptomatik-cheatengine](https://github.com/djethino/claude-cheatengine) | Drive Cheat Engine (7.7+) from Claude Code: value scans, memory edits, pointers, watchpoints, code patches, Mono/IL2CPP (Unity) inspection, screenshots |
 
 ## Install a Plugin
